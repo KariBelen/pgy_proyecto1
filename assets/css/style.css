@@ -1,0 +1,19 @@
+.menu {
+    text-align: right;
+}
+
+.contenido {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+table img {
+    width: 200px;
+    height: 200px;
+}
